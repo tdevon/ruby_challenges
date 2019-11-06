@@ -15,6 +15,8 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
 ```
 
 ## Stock Picker
+**Completed: 11/6/19**
+*<a href="https://github.com/tylerdevon01/ruby_challenges/blob/master/stock_picker.rb">View Code</a>*
 Implement a method `#stock_picker` that takes in an array of stock prices, one for each hypothetical day. It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.
 
 ```
