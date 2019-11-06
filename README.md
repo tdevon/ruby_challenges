@@ -1,8 +1,7 @@
-## Ruby Challenges
+# Ruby Challenges
 
-### Caesar Cipher
-<b>Completed: 11/6/19</b>
-<br>
+## Caesar Cipher
+**Completed: 11/6/19**
 <a href="https://github.com/tylerdevon01/ruby_challenges/blob/master/caesar_cipher.rb
 ">View Code</a>
 ***
