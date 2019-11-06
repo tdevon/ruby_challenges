@@ -1,6 +1,5 @@
 # Ruby Challenges
 A personal collection of various ruby challenges to improve programming skills.
-<br><br>
 
 ## Caesar Cipher
 
