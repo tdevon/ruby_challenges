@@ -47,3 +47,8 @@ Next, make sure your method can handle multiple words:
 Build a tic-tac-toe game using OOP.
 **Completed: 11/6/19**
 *<a href="https://github.com/tylerdevon01/ruby_challenges/blob/master/tictactoe.rb">View Code</a>*
+
+## Event Manager (using I/O File Serialization)
+Build an application to read from a CSV file, write to ERB templates and compare data to the Google API.
+**Completed 11/7/19**
+*<a href="https://github.com/tylerdevon01/ruby_challenges/blob/master/event_manager/">View Project</a>
