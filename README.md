@@ -40,4 +40,10 @@ Next, make sure your method can handle multiple words:
 ```
   > substrings("Howdy partner, sit down! How's it going?", dictionary)
   => { "down" => 1, "how" => 2, "howdy" => 1,"go" => 1, "going" => 1, "it"
+  
 ```
+
+## Tic-Tac-Toe Game (with Object Oriented Principles)
+Build a tic-tac-toe game using OOP.
+**Completed: 11/6/19**
+<a href="href="https://github.com/tylerdevon01/ruby_challenges/blob/master/tictactoe.rb"">View Code</a>
