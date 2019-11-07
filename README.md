@@ -52,4 +52,4 @@ Build a tic-tac-toe game using OOP.
 Build an application to read from a CSV file, write to ERB templates and compare data to the Google API.
 <br>
 **Completed 11/7/19**
-*<a href="https://github.com/tylerdevon01/ruby_challenges/blob/master/event_manager/">View Project</a>
+*<a href="https://github.com/tylerdevon01/ruby_challenges/blob/master/event_manager/">View Project</a>*
